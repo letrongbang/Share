@@ -1,10 +1,5 @@
-﻿Next - previous khi xem bài dùng phím: qua lại đc => 500K
-Bài nào mới đc lên trang chủ thì ở trang chủ, sẽ hiện time là lúc được lên, còn khi view bài sẽ hiện đúng time lúc post. => Free
-Code auto like bài viết: => 500K
-- Xem bài thì like bài
-- Nếu vào home thì like page
-(cái nào like rồi thì đừng có unlike nữa)
-Set cookie 1 tiếng, nếu đã vào)
-
-
-Total 1 canh`
+﻿Lê Trọng Bằng
+Lê Trọng Việt
+Lê Như Quỳnh
+Nguyễn Hoài An
+Hoàng Quốc Tuấn
